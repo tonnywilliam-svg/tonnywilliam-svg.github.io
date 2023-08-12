@@ -1,0 +1,11 @@
+body {
+    padding: 15px;
+}
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+a {
+    font-size:3em;
+    text-decoration: none;
+}

@@ -6,6 +6,6 @@ section {
     grid-template-columns: 1fr 1fr;
 }
 a {
-    font-size:large;
+    font-size:3em;
     text-decoration: none;
 }

@@ -1,6 +1,11 @@
-.container {
-    text-align: center;
+body {
+    padding: 15px;
+}
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 a {
-    font-size: xx-large;
+    font-size:large;
+    text-decoration: none;
 }

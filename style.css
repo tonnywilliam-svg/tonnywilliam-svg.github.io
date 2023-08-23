@@ -2,9 +2,10 @@ body {
     padding: 25px;
 }
 section {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex; flex-wrap: wrap; gap: 2em;
+    justify-content: space-between;
 }
+section > * {flex-basis: 50%}
 a {
     background-color: #00d1b2;
     color: #fff;

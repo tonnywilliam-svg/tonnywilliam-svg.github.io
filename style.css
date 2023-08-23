@@ -2,7 +2,7 @@ body {
     padding: 25px;
 }
 section {
-    display: flex; flex-wrap: wrap; 
+    display: flex; flex-wrap: wrap; align-content: flex-start;
     gap: 1.5em;
 }
 

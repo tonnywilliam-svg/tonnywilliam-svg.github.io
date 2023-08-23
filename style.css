@@ -5,9 +5,9 @@ section {
     display: flex; flex-wrap: wrap; gap: 2em;
     justify-content: space-between;
 }
-section > * {flex-basis: 50%}
+section > * {flex-basis: 40%}
 a {
-    background-color: #00d1b2;
-    color: #fff;
+    background-color: #00d1b2; color: #fff;
     text-decoration: none;
+    border-radius: 2px;
 }
